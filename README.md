@@ -1,8 +1,8 @@
 ### Hey, I'm Nathan! 👋
 
 
-- 🔭 I’m currently working on an open-source decentralized betting platform on the Avalanche C-Chain
-- 🌱 I’m currently learning Web 3.0 & Solidity
+- 🔭 I’m currently working on WorkByte: a web app for finding, reviewng, and recommending rentable office space
+- 🌱 I’m currently strengthening my skill in MERN development
 
 - 💬 Ask me about Anything
 
