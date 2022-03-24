@@ -1,9 +1,5 @@
 ### Hey, I'm Nathan! 👋
+#### MERN Stack Developer & Technologist
 
-
-- 🔭 I’m currently working on WorkByte: a web app for finding, reviewng, and recommending rentable office space
-- 🌱 I’m currently strengthening my skill in MERN development
-
-- 💬 Ask me about Anything
-
-- 📫 How to reach me: ...
+- 🔭 I’m currently working on WorkByte: a web app for finding, reviewing, and recommending rentable office space
+- 🌱 I’m currently strengthening my skill in front-end React development
