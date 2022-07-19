@@ -1,5 +1,4 @@
 ### Hey, I'm Nathan! 👋
-#### MERN Stack Developer & Technologist
+#### Full Stack Developer & Technologist
 
-- 🔭 I’m currently working on WorkByte: a web app for finding, reviewing, and recommending work spaces for Digital Nomads & Travelers
-- 🌱 I’m currently strengthening my skill database architecture & cloud infrastructure
+- 🔭 JavaScript (React, Node, Express), Ruby (Rails, Sinatra, ActiveRecord), Python (Django), SQL (PostGres, MySQL, Redshift), Redis, DynamoDB, MongoDB, AWS (Full Suite), Google Cloud Console, Azure (Pipeline, DevOps), Jenkins, Sidekiq, Honeybadger, Git & GitHub, Docker, Trello, Jira/Confluence
